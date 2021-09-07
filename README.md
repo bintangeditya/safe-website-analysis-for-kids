@@ -17,8 +17,8 @@ print(swafk.check(url, title, description, keyword, rating))
 #good -> if website safe
 #bad -> if website not safe
 ```
-
->check website
+\n\n
+>print matrix
 ```python
 swafk.matrix(url, title, description, keyword, rating)
 # [url]
